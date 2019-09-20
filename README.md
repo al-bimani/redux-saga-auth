@@ -19,7 +19,7 @@ $ cd ..
 $ npm start
 ```
 
-- start xampp
+- start xampp, Apache and MySQL
 - open another terminal in the root of redux-saga-auth
 ```fix
 $ node server 
