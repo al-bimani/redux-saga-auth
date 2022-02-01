@@ -1,7 +1,7 @@
-this is a react auth app using redux-saga and some ideas.
+This is a react auth app using redux-saga and some ideas.
 using mysql as database, material-ui as css library
 
-# install 
+# Install 
 you need to download and install xampp first.
 
 
@@ -14,7 +14,7 @@ $ cd server npm install
 $ cd ..
 ```
 
-# usage 
+# Usage 
 - go to the root of redux-saga-auth foled, opend terminal
 ```fix
 $ npm start
@@ -30,4 +30,4 @@ $ node server
 
 - open you browser at [localhost:3000](http://locahost:3000)
 
-**this is my first public repo, please inform me if i did something worng.**
+**This is my first public repo, please inform me if i did something worng.**
